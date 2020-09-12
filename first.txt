@@ -2,3 +2,4 @@ gitの練習をする。
 基本的な０００
 gitgit
 git rmの勉強。
+git status
