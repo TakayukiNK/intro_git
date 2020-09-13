@@ -3,3 +3,4 @@ gitの練習をする。
 gitgit
 git rmの勉強。
 git status
+git diff
